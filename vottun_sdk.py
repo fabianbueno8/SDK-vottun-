@@ -1,7 +1,4 @@
-
-import requests
-
-class VottunSDK:
+VottunSDK:
     def __init__(self, api_key, app_id, base_url):
         self.api_key = api_key
         self.app_id = app_id
